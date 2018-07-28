@@ -1,8 +1,8 @@
 #!/usr/bin/python -tt
 
 # create_for508_mounts.py will generate custom mount point directories for exercises in the SANS FOR508 class.  Run "python create_for508_mounts.py -h" for usage details.
-# By Mike Pilkington
-# Version 1.0mik
+# by Mike Pilkington
+# version 1.0
 
 import os
 import argparse
